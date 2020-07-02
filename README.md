@@ -22,4 +22,4 @@ Then here whenever we press a button the robot can read from the php file and th
 <br/><img src="https://github.com/ranabameer/controlling-robot-manually/blob/master/images/12.JPG"><br/>
 <br/><img src="https://github.com/ranabameer/controlling-robot-manually/blob/master/images/13.JPG"><br/>
 
-There also a video to show this in the files above.
+There is also a video to show this in the files above.
