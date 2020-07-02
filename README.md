@@ -4,7 +4,7 @@ In addtion to add the record of the movement in the database.
 The tools used are HTML and CSS for the interface. PHP to control the robot and insert to the database and finally for the database MySQL is used 
 on a localhost created by XAMPP.
 <br/><br/>
-First the table in the database is displayed
+First the table in the database is displayed which is robot_movement_history
 <br/>
 <img src="https://github.com/ranabameer/controlling-robot-manually/blob/master/images/1.JPG">
 <br/><br/>
